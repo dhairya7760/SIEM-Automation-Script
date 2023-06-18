@@ -1,0 +1,11 @@
+Index,Source Name,Time Written,Event ID,Record Number,Event Type,Event Category,Computer Name
+1,Intel-SST-OED,Mon Nov  7 13:31:39 2022,19,11132,4,6,DHAIRYA-CHANGELA
+2,Microsoft-Windows-DNS-Client,Mon Nov  7 13:31:13 2022,1014,11131,2,1014,DHAIRYA-CHANGELA
+3,DCOM,Mon Nov  7 13:30:56 2022,10016,11130,2,0,DHAIRYA-CHANGELA
+4,Intel-SST-OED,Mon Nov  7 13:30:54 2022,19,11129,4,6,DHAIRYA-CHANGELA
+5,Microsoft-Windows-UserModePowerService,Mon Nov  7 13:30:29 2022,12,11128,4,10,DHAIRYA-CHANGELA
+6,Microsoft-Windows-Power-Troubleshooter,Mon Nov  7 13:30:27 2022,1,11127,4,0,DHAIRYA-CHANGELA
+7,Service Control Manager,Mon Nov  7 13:30:26 2022,1073748864,11126,4,0,DHAIRYA-CHANGELA
+8,Display,Mon Nov  7 13:30:27 2022,4107,11125,4,0,DHAIRYA-CHANGELA
+9,Microsoft-Windows-UserModePowerService,Mon Nov  7 13:30:26 2022,12,11124,4,10,DHAIRYA-CHANGELA
+10,Microsoft-Windows-Kernel-Power,Mon Nov  7 13:30:24 2022,105,11123,4,100,DHAIRYA-CHANGELA
